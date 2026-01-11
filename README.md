@@ -8,6 +8,15 @@ This project uses an LSTM-based neural network to predict the next word in a giv
 - Embedding Layer
 - Softmax Output
 
+## 📈 Training Visualizations
+
+### Loss vs Epochs
+![Loss Plot](images/loss.png)
+
+### Accuracy vs Epochs
+![Accuracy Plot](images/accuracy.png)
+
+
 ## 🛠 Tech Stack
 Python, TensorFlow, Keras, NLP
 
